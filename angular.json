@@ -86,6 +86,9 @@
           "options": {
             "browserTarget": "image-to-text:build"
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
